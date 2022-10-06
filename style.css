@@ -1886,7 +1886,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .typewrite{
   display:flex;
   position: absolute;
-  padding-left: 31px;
+  padding-left: 25px;
  
 }
 
